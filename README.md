@@ -7,7 +7,7 @@ I designed this macropad to slip onto the top of my Surface Pro, since I like to
 
 The encoder press is used to pause/play music, and as of now it's rotation just bound to f13/f14, which I'm hoping to make change my pen size in Krita! 
 
-![picture of the finished sliphub](Photos/sliphub2.jpg)
+![picture of the finished sliphub](Photos/sliphub1.jpg)
 
 ## CAD
 Here's the slipboard slipped onto a mockup section of the Surface Pro! 
