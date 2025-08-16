@@ -25,6 +25,8 @@ I'm a big fan of the look of the raw traces on the PCB, so I utilized that and t
 ![a screenshot of the hackpad's pcb in kicad](Photos/pcb.png)
 ![a screenshot of the hackpad's schematic in kicad](Photos/schematic.png)
 
+### ![demo video!](https://youtu.be/sluuIp59PdY)
+
 ## BOM
 | Quantity | Material               |
 |----------|------------------------|
