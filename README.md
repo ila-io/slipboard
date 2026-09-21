@@ -12,7 +12,7 @@ The encoder press is used to pause/play music, and as of now it's rotation just 
 ## CAD
 Here's the slipboard slipped onto a mockup section of the Surface Pro! 
 ![a screenshot from Fusion360 containing my hackpad](Photos/cad_top.png)
-I plan to add rubber/silicon to the insets that you can see beneath the tablet, since I own some that I could cut out and glue in myself!  
+There are soft sliders in the insets to allow the device to slide on and off safely, and stay secured while in use!
 
 ### back/bottom
 ![a screenshot of the bottom of my hackpad](Photos/cad_bottom.png)
